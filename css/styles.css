@@ -33,3 +33,9 @@ address{
     margin: 0px;
     color: #0f0f0f;
 }
+
+@media(max-width: 576px){
+    .not-ex{
+        display: none;
+    }
+}
