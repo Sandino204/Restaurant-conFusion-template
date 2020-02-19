@@ -43,8 +43,9 @@ body{
     background-color: #512da8;
 }
 
-@media(max-width: 576px){
-    .not-ex{
-        display: none;
-    }
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
